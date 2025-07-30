@@ -7,7 +7,7 @@ This project predicts whether a client will subscribe to a bank term deposit usi
 
 ## Dataset
 
-File: data/bank_marketing_v2.csv
+File: bank_marketing.csv
 
 Features: age, job, marital, education, default, balance, housing, loan, contact, month, poutcome, p_recency
 
